@@ -178,5 +178,7 @@ print(list_1)  # Resultado: [('e', 1, 4)]
 # También se puede hacer iteraciones
 list_2 = list(zip('Nicoll', range(1, 9), range(-9, 5)))
 print(list_2)
-
 ```
+
+
+
