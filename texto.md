@@ -1,5 +1,5 @@
 # Guía de Métodos y Operaciones en Python: Listas, Conjuntos y Diccionarios
-
+- Elmer Jesús 😼
 ### 1. Método count 
 - devuelve la cantidad de veces que se repite el elemento
 
